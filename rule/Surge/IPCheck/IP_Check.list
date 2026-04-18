@@ -8,7 +8,7 @@
 # ═══════════════════════ IP 检测 / 测速 ═══════════════════════
 # > IP & Network Check & SpeedTest & NAT Check
 DOMAIN-SUFFIX,cc.mastersgo.cc // Claude AI IP 风险检测
-DOMAIN-SUFFIX,meowvps.com/tools/ip-check/
+DOMAIN-SUFFIX,meowvps.com/tools/ip-check
 DOMAIN-SUFFIX,ip.sy
 DOMAIN-SUFFIX,test-ipv6.com
 DOMAIN-SUFFIX,testipv6.cn
@@ -28,3 +28,7 @@ DOMAIN-SUFFIX,ipjiance.com // IP 纯净度
 DOMAIN-SUFFIX,ifconfig.me // My IP Address
 DOMAIN-SUFFIX,dyebean.com // NAT 检测
 DOMAIN-SUFFIX,api-huacloud.dev // 测速
+DOMAIN-SUFFIX,test.ustc.edu.cn // 测速
+DOMAIN-SUFFIX,fast.com // 测速
+DOMAIN-SUFFIX,ipqualityscore.com
+DOMAIN-SUFFIX,spur.us
