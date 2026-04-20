@@ -1,0 +1,187 @@
+# NAME: HongKong
+# AUTHOR: myself
+# UPDATED: 2026-04-15
+
+# ═══════════════════════ 金融 / 银行 / 支付 ═══════════════════════
+# > ZA Bank (众安银行)
+DOMAIN-SUFFIX,za.group
+DOMAIN-SUFFIX,zafinsvc.com
+DOMAIN-SUFFIX,zajourney.com
+DOMAIN-SUFFIX,zaticdn.com
+
+# > HSBC HK (汇丰香港)
+DOMAIN-SUFFIX,hsbc.com.hk
+DOMAIN-SUFFIX,hsbc.hk
+DOMAIN-SUFFIX,hsbcnet.com
+DOMAIN-SUFFIX,hsbc.com
+
+# > BOCHK (中银香港)
+DOMAIN-SUFFIX,bochk.com
+DOMAIN-SUFFIX,bankofchina.com.hk
+
+# > Airstar Bank (天星银行)
+DOMAIN-SUFFIX,airstarbank.com
+DOMAIN-SUFFIX,airstarbank.com.cn
+
+# > WeLab Bank (汇立银行)
+DOMAIN-SUFFIX,welab.bank
+DOMAIN-SUFFIX,welab-group.com
+
+# > Ant Bank & AlipayHK (蚂蚁银行 & 支付)
+DOMAIN-SUFFIX,antbank.hk
+DOMAIN-SUFFIX,ant-bank.hk
+DOMAIN-SUFFIX,alipay.hk
+DOMAIN-SUFFIX,alipayhk.com
+
+# > Octopus (八达通)
+DOMAIN-SUFFIX,octopus.com.hk
+DOMAIN-SUFFIX,octopuscards.com
+DOMAIN-SUFFIX,octopus.hk
+
+# > MPay & Macau Pass (澳门通)
+DOMAIN-SUFFIX,macaupass.com
+DOMAIN-SUFFIX,mpay.com.mo
+DOMAIN-SUFFIX,macaupasspay.com
+
+# > iFAST / FSMOne
+DOMAIN-KEYWORD,ifast
+DOMAIN-KEYWORD,fsmone
+
+# ═══════════════════════ Mobile / WiFi Calling ═══════════════════════
+# > ══════════ HK 运营商
+# > HKT（香港电讯）
+DOMAIN-SUFFIX,hkcsl.com
+DOMAIN-SUFFIX,clubsim.com.hk
+DOMAIN-SUFFIX,theclub.com.hk
+DOMAIN-SUFFIX,pccw.com
+
+# > CTM (澳门电讯)
+DOMAIN-SUFFIX,ctm.net
+DOMAIN-SUFFIX,cyberctm.com
+
+# > My3 (3HK)
+DOMAIN-SUFFIX,three.com.hk
+DOMAIN-SUFFIX,mobile.three.com.hk
+
+# > China Unicom Global (CUniq)
+DOMAIN-SUFFIX,cuniq.com
+
+# >BNE eSim
+DOMAIN-SUFFIX,bne.li
+
+# > HK WiFi Calling
+# > csl & ClubSim
+DOMAIN-SUFFIX,csl.prod.ondemandconnectivity.com
+DOMAIN-SUFFIX,hhk.prod.ondemandconnectivity.com
+DOMAIN-SUFFIX,epdg.epc.mnc000.mcc454.pub.3gppnetwork.org
+DOMAIN-SUFFIX,ss.epdg.epc.mnc000.mcc454.pub.3gppnetwork.org
+DOMAIN-SUFFIX,ss.epdg.epc.geo.mnc000.mcc454.pub.3gppnetwork.org
+
+# ═══════════════════════ Crypto ═══════════════════════
+# > Binance(国际版)
+DOMAIN-SUFFIX,binance.com
+DOMAIN-SUFFIX,binancezh.com
+DOMAIN-SUFFIX,binance-cdn.com
+
+# > OKX
+DOMAIN-SUFFIX,okx.com
+DOMAIN-SUFFIX,okex.com
+DOMAIN-SUFFIX,okcoin.com
+
+# > Bybit(非 EU,走国际版)
+DOMAIN-SUFFIX,bybit.com
+DOMAIN-SUFFIX,bybitglobal.com
+
+# > Bitget & Bitget Wallet
+DOMAIN-SUFFIX,bitget.com
+DOMAIN-SUFFIX,bitgetapp.com
+DOMAIN-SUFFIX,bitapi.vip
+DOMAIN-SUFFIX,bitkeep.vip
+DOMAIN-SUFFIX,bitkeep.com
+DOMAIN-SUFFIX,noxiaohao.com
+DOMAIN-SUFFIX,airbrake.io
+DOMAIN-SUFFIX,web3modal.org
+DOMAIN-SUFFIX,walletconnect.org
+DOMAIN-SUFFIX,alchemy.com
+DOMAIN-SUFFIX,coinbase.com
+DOMAIN-SUFFIX,engagelab.com
+DOMAIN-SUFFIX,engage7.com
+DOMAIN-SUFFIX,arbitrum.io
+DOMAIN-SUFFIX,bwb.online
+DOMAIN-SUFFIX,bwb.global
+DOMAIN-SUFFIX,bgw.world
+DOMAIN-SUFFIX,bgw.live
+DOMAIN-SUFFIX,appsflyersdk.com // REJECT
+IP-CIDR,8.223.0.0/16
+
+# > SafePal
+DOMAIN-SUFFIX,safepal.com
+DOMAIN-SUFFIX,safepal.io
+
+# > UR Card
+DOMAIN-SUFFIX,ur.io
+DOMAIN-SUFFIX,urcard.io
+
+# > Fiat24 底层服务(Bitget Wallet/SafePal/UR)
+DOMAIN-SUFFIX,fiat24.com
+
+# > ether.fi
+DOMAIN-SUFFIX,ether.fi
+
+# > BitMart
+DOMAIN-SUFFIX,bitmart.com
+
+# > Tether Wallet
+DOMAIN-SUFFIX,tether.io
+DOMAIN-SUFFIX,tether.to
+DOMAIN-SUFFIX,wallet.tether.io
+
+# > BiyaPay
+DOMAIN-SUFFIX,biyapay.com
+DOMAIN-SUFFIX,biyapay.io
+
+# > PokePay
+DOMAIN-SUFFIX,pokepay.cc
+DOMAIN-SUFFIX,pokepay.com
+
+# > Ready
+DOMAIN-SUFFIX,ready.co
+DOMAIN-SUFFIX,ready.io
+DOMAIN-SUFFIX,readycard.io
+
+# 以下 SG / HK 皆可
+# > FSMOne
+DOMAIN-SUFFIX,fsmone.com
+DOMAIN-SUFFIX,fundsupermart.com
+
+# > StarryBlu
+DOMAIN-SUFFIX,starryblu.com
+
+# > DTCPay
+DOMAIN-SUFFIX,dtcpay.com
+
+# > DogPay
+DOMAIN-SUFFIX,dogpay.com
+
+# > Savo
+DOMAIN-SUFFIX,savo.cash
+DOMAIN-SUFFIX,savo.io
+
+# > PEXX
+DOMAIN-SUFFIX,pexx.com
+
+# > Polymarket
+DOMAIN-SUFFIX,polymarket.com
+
+# ═══════════════════════ Other ═══════════════════════
+# > Naixi Forum
+# DOMAIN-SUFFIX,forum.naixi.net
+
+# > osu!
+# DOMAIN-SUFFIX,osu.ppy.sh
+
+# > lowiro (Arcaea)
+DOMAIN-SUFFIX,lowiro.com
+
+# > App Store
+# DOMAIN,downloaddispatch.itunes.apple.com // 字节系App下载，禁止走US
