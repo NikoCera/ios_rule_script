@@ -1,0 +1,21 @@
+# NAME: AIGC
+# AUTHOR: myself
+# UPDATED: 2026-04-20
+
+# > ChatGPT
+PROCESS-NAME,ChatGPT
+PROCESS-NAME,ChatGPTHelper
+
+# > Claude
+PROCESS-NAME,Claude
+PROCESS-NAME,"Claude Helper"
+PROCESS-NAME,"Claude Helper (Renderer)"
+DOMAIN-SUFFIX,browser-intake-us5-datadoghq.com // Claude 检测域名
+
+# > Grok
+DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,grok.com
+
+# > Gemini
+PROCESS-NAME,Gemini
+PROCESS-NAME,GeminiAppLauncher
