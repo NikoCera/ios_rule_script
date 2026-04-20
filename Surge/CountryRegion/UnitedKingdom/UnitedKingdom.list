@@ -18,7 +18,7 @@ DOMAIN-SUFFIX,wirex.com
 DOMAIN-SUFFIX,branch.io
 DOMAIN-SUFFIX,fra-01.braze.eu
 # DOMAIN-SUFFIX,amplitude.com // UR already use
-DOMAIN-SUFFIX,eu.sardine.ai
+# DOMAIN-SUFFIX,eu.sardine.ai // Kast already ues
 DOMAIN-SUFFIX,appsflyer.com
 DOMAIN-SUFFIX,eu.freshchat.com
 DOMAIN-SUFFIX,appsflyer.com
