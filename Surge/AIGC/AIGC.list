@@ -7,10 +7,7 @@ PROCESS-NAME,ChatGPT
 PROCESS-NAME,ChatGPTHelper
 
 # > Claude
-PROCESS-NAME,Claude
-PROCESS-NAME,"Claude Helper"
-PROCESS-NAME,"Claude Helper (Renderer)"
-DOMAIN-SUFFIX,browser-intake-us5-datadoghq.com // Claude 检测域名
+# Move to Claude.list
 
 # > Grok
 DOMAIN-SUFFIX,x.ai
