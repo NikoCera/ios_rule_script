@@ -49,6 +49,7 @@ DOMAIN-SUFFIX,vodafone.de
 # > O2
 DOMAIN-SUFFIX,o2online.de
 DOMAIN-SUFFIX,o2.de
+DOMAIN-SUFFIX,o9.de
 DOMAIN-SUFFIX,o2business.de
 DOMAIN-SUFFIX,o2mail.de
 DOMAIN-SUFFIX,o2-freikarte.de
@@ -58,6 +59,9 @@ DOMAIN-SUFFIX,telefonica.com
 DOMAIN-SUFFIX,sg.de.o2.com
 DOMAIN-SUFFIX,mailservices-sc.de
 DOMAIN-SUFFIX,pinternet.interkom.de
+DOMAIN-SUFFIX,identity.tm // identity online App
+DOMAIN-SUFFIX,idnow.de // identity online App
+DOMAIN-SUFFIX,readid.com // identity online App
 
 # ══════════ DE WiFi Calling
 # Move to other list due to UDP not support. 
