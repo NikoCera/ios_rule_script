@@ -1,0 +1,8 @@
+#!name=iCloud QUIC Fix
+#!desc=覆盖 iRingo WeatherKit 的 QUIC REJECT 规则
+#!category=自定义
+[Rule]
+# 只 block WeatherKit 域名的 QUIC
+AND,((DOMAIN-SUFFIX,weatherkit.apple.com),(PROTOCOL,QUIC)),REJECT-DROP
+# 其余 Apple QUIC 放行
+AND,((OR,((IP-ASN,714,no-resolve),(IP-ASN,6185,no-resolve))),(PROTOCOL,QUIC)),DIRECT
