@@ -2,6 +2,7 @@
 # AUTHOR: myself
 # UPDATED: 2026-04-20
 
+DOMAIN-SUFFIX,kelee.one // 可莉插件中心
 DOMAIN-SUFFIX,max-c.com // 小黑盒heybox
 DOMAIN-SUFFIX,appinn.net
 DOMAIN-SUFFIX,zjcdn.com
@@ -11,9 +12,9 @@ DOMAIN-SUFFIX,vrqfmm.xyz // Nexitally
 IP-CIDR,47.246.0.0/16,no-resolve // 闲鱼
 IP-CIDR,163.181.0.0/16,no-resolve // 闲鱼
 IP-CIDR,155.102.0.0/16,no-resolve // 闲鱼
-DOMAIN-SUFFIX,orb.local
-DOMAIN-SUFFIX,localhost
-DOMAIN,localhost
-DOMAIN-SUFFIX,local // mDNS / Bonjour
+# DOMAIN-SUFFIX,orb.local
+# DOMAIN-SUFFIX,localhost
+# DOMAIN,localhost
+# DOMAIN-SUFFIX,local // mDNS / Bonjour
 # DOMAIN-SUFFIX,qaq.wiki // Asspp 本地安装(不一定需要)
 # DOMAIN-SUFFIX,miwifi.com // 小米路由器,已用 xiaomi.list 代替
