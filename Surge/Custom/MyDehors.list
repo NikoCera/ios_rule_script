@@ -6,7 +6,7 @@ DOMAIN-SUFFIX,obsidian.md
 DOMAIN-SUFFIX,linux.do
 DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,modengine.com
-# DOMAIN-SUFFIX,1password.com
+DOMAIN-SUFFIX,1password.com // 避开本地 DNS lookup
 DOMAIN-SUFFIX,hero-sms.com // 接码平台
 DOMAIN-SUFFIX,wenziwanka.com
 DOMAIN-SUFFIX,mtn.co

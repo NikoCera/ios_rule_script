@@ -16,4 +16,4 @@ DOMAIN-SUFFIX,localhost
 DOMAIN,localhost
 DOMAIN-SUFFIX,local // mDNS / Bonjour
 # DOMAIN-SUFFIX,qaq.wiki // Asspp 本地安装(不一定需要)
-# DOMAIN-SUFFIX,miwifi.com // 小米路由器
+# DOMAIN-SUFFIX,miwifi.com // 小米路由器,已用 xiaomi.list 代替
