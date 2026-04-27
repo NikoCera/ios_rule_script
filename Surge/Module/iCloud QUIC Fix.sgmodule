@@ -1,6 +1,6 @@
 #!name=🌤 WeatherKit QUIC Fix
 #!desc=覆盖 iRingo WeatherKit 的 QUIC REJECT 规则
-#!category=自定义
+#!category=未分类
 [Rule]
 # 只 block WeatherKit 域名的 QUIC
 AND,((DOMAIN-SUFFIX,weatherkit.apple.com),(PROTOCOL,QUIC)),REJECT-DROP
