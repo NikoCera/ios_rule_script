@@ -24,6 +24,7 @@ DOMAIN-SUFFIX,whoer.net
 DOMAIN-SUFFIX,cc.mastersgo.cc // Claude AI IP 风险检测
 DOMAIN-SUFFIX,ip.net.coffee // Claude AI IP 风险检测
 DOMAIN-SUFFIX,net-lsp-x.com
+DOMAIN-SUFFIX,ip-api.com // 网络信息 X 模块检测出口域名
 DOMAIN-SUFFIX,browserleaks.net
 DOMAIN-SUFFIX,browserleaks.com
 DOMAIN-SUFFIX,browserleaks.org
