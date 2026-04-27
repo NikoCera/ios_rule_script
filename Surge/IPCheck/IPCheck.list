@@ -1,33 +1,46 @@
 # NAME: IPCheck
 # AUTHOR: myself
-# UPDATED: 2026-04-19
+# UPDATED: 2026-04-28
 
-# ═══════════════════════ IP 信息查询 ═══════════════════════
+# ═══════════════════════ 代理 / VPN / 风控检测 ═══════════════════════
+DOMAIN-SUFFIX,scamalytics.com
+DOMAIN-SUFFIX,ipqualityscore.com
+DOMAIN-SUFFIX,proxycheck.io
+DOMAIN-SUFFIX,ipapi.is
+DOMAIN-SUFFIX,maxmind.com
+DOMAIN-SUFFIX,spur.us
+DOMAIN-SUFFIX,ippure.com
+DOMAIN-SUFFIX,ping0.cc
+DOMAIN-SUFFIX,ipjiance.com
+DOMAIN-SUFFIX,cc.mastersgo.cc // Claude AI IP 风险检测
+DOMAIN-SUFFIX,ip.net.coffee // Claude AI IP 风险检测
+DOMAIN-SUFFIX,net-lsp-x.com
+
+# ═══════════════════════ 地理位置 / ASN / 运营商信息 ═══════════════════════
 DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,ipdata.co
-DOMAIN-SUFFIX,ipapi.is
 DOMAIN-SUFFIX,ipquery.io
 DOMAIN-SUFFIX,ip2location.com
+DOMAIN-SUFFIX,db-ip.com
+DOMAIN-SUFFIX,ip-api.com // 网络信息 X 模块检测出口域名
 DOMAIN-SUFFIX,ifconfig.me
 DOMAIN-SUFFIX,ip.sy
 DOMAIN-SUFFIX,iplark.com
 DOMAIN-SUFFIX,meowvps.com
 
-# ═══════════════════════ IP 纯净度 / 风控检测 ═══════════════════════
-DOMAIN-SUFFIX,scamalytics.com
-DOMAIN-SUFFIX,ipqualityscore.com
-DOMAIN-SUFFIX,spur.us
-DOMAIN-SUFFIX,ippure.com
-DOMAIN-SUFFIX,ping0.cc
-DOMAIN-SUFFIX,ipjiance.com
+# ═══════════════════════ 泄露检测 / WebRTC / 浏览器指纹 ═══════════════════════
 DOMAIN-SUFFIX,whoer.net
-DOMAIN-SUFFIX,cc.mastersgo.cc // Claude AI IP 风险检测
-DOMAIN-SUFFIX,ip.net.coffee // Claude AI IP 风险检测
-DOMAIN-SUFFIX,net-lsp-x.com
-DOMAIN-SUFFIX,ip-api.com // 网络信息 X 模块检测出口域名
 DOMAIN-SUFFIX,browserleaks.net
 DOMAIN-SUFFIX,browserleaks.com
 DOMAIN-SUFFIX,browserleaks.org
+DOMAIN-SUFFIX,ipleak.net
+DOMAIN-SUFFIX,whatismyipaddress.com
+
+# ═══════════════════════ 黑名单 / 滥用记录 / 安全信誉 ═══════════════════════
+DOMAIN-SUFFIX,abuseipdb.com
+DOMAIN-SUFFIX,spamhaus.org
+DOMAIN-SUFFIX,talosintelligence.com
+DOMAIN-SUFFIX,virustotal.com
 
 # ═══════════════════════ IPv6 / NAT 检测 ═══════════════════════
 DOMAIN-SUFFIX,test-ipv6.com
