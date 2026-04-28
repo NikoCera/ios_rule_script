@@ -2,6 +2,7 @@
 # AUTHOR: myself
 # UPDATED: 2026-04-20
 
+DOMAIN-SUFFIX,speedtest.cn // 直连测速
 DOMAIN-SUFFIX,kelee.one // 可莉插件中心
 DOMAIN-SUFFIX,max-c.com // 小黑盒heybox
 DOMAIN-SUFFIX,appinn.net
