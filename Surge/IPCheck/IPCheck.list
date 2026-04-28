@@ -50,4 +50,4 @@ DOMAIN-SUFFIX,dyebean.com // NAT 检测
 # ═══════════════════════ 网速测试 ═══════════════════════
 DOMAIN-SUFFIX,fast.com
 DOMAIN-SUFFIX,api-huacloud.dev
-DOMAIN-SUFFIX,test.ustc.edu.cn
+# DOMAIN-SUFFIX,test.ustc.edu.cn // 需要始终DIRECT
