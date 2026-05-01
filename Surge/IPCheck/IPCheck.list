@@ -44,4 +44,6 @@ DOMAIN-SUFFIX,virustotal.com
 
 # ═══════════════════════ 网速测试 ═══════════════════════
 DOMAIN-SUFFIX,fast.com
-DOMAIN-SUFFIX,api-huacloud.dev
+DOMAIN-SUFFIX,ooklaserver.net
+DOMAIN-SUFFIX,speed.cloudflare.com
+DOMAIN-SUFFIX,speed.dler.io

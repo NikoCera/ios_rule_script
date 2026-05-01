@@ -6,6 +6,7 @@
 DOMAIN-SUFFIX,test-ipv6.com
 DOMAIN-SUFFIX,testipv6.cn
 DOMAIN-SUFFIX,dyebean.com // NAT 检测, 需要 DIRECT
+DOMAIN-SUFFIX,mao.fan // NAT 检测, 需要 DIRECT
 # ═══════════════════════ 网速测试 ═══════════════════════
 DOMAIN-SUFFIX,test.ustc.edu.cn // 需要始终 DIRECT 测速
 DOMAIN-SUFFIX,speedtest.cn // 需要始终 DIRECT 测速
